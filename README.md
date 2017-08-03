@@ -5,4 +5,4 @@ You will need following things:
 2. Sql version
 3. Telegram Account
 
-To run the code, run python3 artifriend.py
+To run the code, run ```python3 artifriend.py
